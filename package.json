@@ -1,15 +1,10 @@
 {
-  "name": "meanjs",
-  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
-  "version": "0.4.1",
+  "name": "oag",
+  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
+  "version": "0.0.0",
   "meanjs-version": "0.4.1",
-  "private": false,
-  "author": "https://github.com/meanjs/mean/graphs/contributors",
+  "author": "OHARA AUTO GROUP",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/meanjs/mean.git"
-  },
   "engines": {
     "node": ">=0.10.28",
     "npm": ">=1.4.28"
