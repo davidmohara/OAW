@@ -1,9 +1,9 @@
 {
-  "name": "oag",
+  "name": "oaw",
   "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
   "version": "0.0.0",
   "meanjs-version": "0.4.1",
-  "author": "OHARA AUTO GROUP",
+  "author": "OHARA AUTO WORKS",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.28",
