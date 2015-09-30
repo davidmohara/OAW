@@ -1,7 +1,7 @@
 {
   "name": "oaw",
-  "version": "0.0.0",
-  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
+  "version": "0.1.0",
+  "description": "O'Hara Auto Works Main Site",
   "dependencies": {
     "bootstrap": "~3",
     "angular": "~1.3",

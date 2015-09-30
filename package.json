@@ -1,7 +1,7 @@
 {
   "name": "oaw",
-  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
-  "version": "0.0.0",
+  "description": "O'Hara Auto Works Main Site",
+  "version": "0.1.0",
   "meanjs-version": "0.4.1",
   "author": "OHARA AUTO WORKS",
   "license": "MIT",
