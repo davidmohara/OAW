@@ -45,7 +45,7 @@ angular.module(ApplicationConfiguration.applicationModuleName).run(function ($ro
 
   // Store previous state
   function storePreviousState(state, params) {
-    // only store this state if it shouldn't be ignored 
+    // only store this state if it shouldn't be ignored
     if (!state.data || !state.data.ignoreState) {
       $state.previous = {
         state: state,
@@ -76,5 +76,5 @@ angular.element(document).ready(function () {
   }
 
   //Then init the app
-  angular.bootstrap(document, [ApplicationConfiguration.applicationModuleName]);
+  //angular.bootstrap(document, [ApplicationConfiguration.applicationModuleName]);
 });
