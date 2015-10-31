@@ -2,9 +2,9 @@
 
 module.exports = {
   app: {
-    title: 'OAG',
-    description: 'Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js',
-    keywords: 'MongoDB, Express, AngularJS, Node.js',
+    title: "O'Hara Auto Works",
+    description: 'Full service, mobile, repair group specializing in auto glass',
+    keywords: 'Windshield repair, auto glass, mobile repair, mobile glass service',
     googleAnalyticsTrackingID: process.env.GOOGLE_ANALYTICS_TRACKING_ID || 'GOOGLE_ANALYTICS_TRACKING_ID'
   },
   port: process.env.PORT || 3000,
@@ -14,7 +14,7 @@ module.exports = {
     // session expiration is set by default to 24 hours
     maxAge: 24 * (60 * 60 * 1000),
     // httpOnly flag makes sure the cookie is only accessed
-    // through the HTTP protocol and not JS/browser 
+    // through the HTTP protocol and not JS/browser
     httpOnly: true,
     // secure cookie should be turned to true to provide additional
     // layer of security so that the cookie is set only when working
